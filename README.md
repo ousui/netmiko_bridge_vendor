@@ -36,4 +36,5 @@ pip install netmiko_bridge_vendor
 ## Support
 
 - bdcom
+- h3c
 
